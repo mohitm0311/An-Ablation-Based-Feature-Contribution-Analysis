@@ -232,7 +232,7 @@ Once basic constraints are satisfied, **who the mentor is** matters more than su
 
 ## 14. Ablation Plot
 
-![Ablation Feature Importance](Graphs/ablation_feature_importance.png)
+![Ablation Feature Importance](ablation_feature_importance.png)
 
 *Decrease in ROC–AUC after removing each feature group. Larger decreases indicate greater contribution to meaningful mentor engagement.*
 
